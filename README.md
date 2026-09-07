@@ -9,6 +9,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 
 ## Live experiments
 
+- [EXP-9 · Replaceable but Employed: Automation and the Meaning of Work](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/9/)
 - [EXP-8 · Is :customer_id really all I need to securely isolate client data in C](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/)
 - [EXP-7 · anthropics/commerce-agents](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/7/)
 - [EXP-6 · GangTailorUpgrade/undress-service](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/6/)
