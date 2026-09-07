@@ -13,7 +13,22 @@
 <meta name='twitter:card' content='summary'>
 <meta name='robots' content='index,follow'>
 <script type='application/ld+json'>{"@context": "https://schema.org", "@type": "WebPage", "name": "anthropics/commerce-agents", "url": "https://zerobrainidea-prog.github.io/zero-mind-public/experiments/7/", "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included."}</script>
-<script data-goatcounter="https://zerobrainidea.goatcounter.com/count" data-goatcounter-settings="{&quot;path&quot;:&quot;/experiments/7&quot;}" async src="https://gc.zgo.at/count.js"></script>
+<script data-goatcounter="https://zerobrainidea.goatcounter.com/count" data-goatcounter-settings="{&quot;path&quot;:&quot;/experiments/7&quot;}" async src="https://gc.zgo.at/count.js"></script><script>
+(function(){
+  const q=new URLSearchParams(location.search);
+  const raw=(q.get('utm_source')||'').toLowerCase();
+  const src=raw.replace(/[^a-z0-9_-]/g,'').slice(0,40);
+  window.__zm_source=src;
+  if(!src)return;
+  let tries=0;
+  function send(){
+    if(window.goatcounter&&window.goatcounter.count){
+      window.goatcounter.count({path:'acq-exp-7-'+src,title:'Acquisition visit EXP-7 '+src,event:true});
+    }else if(++tries<24){setTimeout(send,250);}
+  }
+  window.addEventListener('load',()=>setTimeout(send,250));
+})();
+</script>
 <style>
 :root{--bg:#071018;--panel:#0d1824;--line:#28435b;--text:#edf7ff;--muted:#8ba1b8;--cyan:#29d8ff;--green:#69f0ae}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 15% 0,#10273a 0,var(--bg) 38%);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif;line-height:1.65}
@@ -40,6 +55,7 @@ main{max-width:900px;margin:0 auto;padding:48px 20px 72px}.eyebrow{color:var(--c
     <input type="hidden" name="access_key" value="08d32e11-1e5f-4a39-8049-af98cb9fe88c">
     <input type="hidden" name="subject" value="ZERO-MIND lead · EXP-7 · Test: Rising tool: anthropics/commerce-agents">
     <input type="hidden" name="experiment_id" value="7">
+    <input type="hidden" name="campaign_source" value="" class="zm-campaign-source">
     <input type="checkbox" name="botcheck" class="zm-honey" tabindex="-1" autocomplete="off">
     <label>Name<input name="name" maxlength="100" required></label>
     <label>Email<input name="email" type="email" maxlength="254" required></label>
@@ -52,20 +68,26 @@ main{max-width:900px;margin:0 auto;padding:48px 20px 72px}.eyebrow{color:var(--c
 (function(){
   const f=document.getElementById('zm-lead-7'); if(!f)return;
   const s=f.querySelector('.zm-form-status');
+  const src=(window.__zm_source||'').replace(/[^a-z0-9_-]/g,'').slice(0,40);
+  const sf=f.querySelector('.zm-campaign-source'); if(sf)sf.value=src;
   f.addEventListener('submit',async function(e){
     e.preventDefault(); s.textContent='Sending…';
+    if(src&&window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'cta-exp-7-'+src,title:'Attributed CTA EXP-7 '+src,event:true});
     try{
       const body=Object.fromEntries(new FormData(f));
       const r=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)});
       const j=await r.json();
       if(r.ok && j.success){
         s.textContent='Received. Thank you.'; f.reset();
-        if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'lead-success-exp-7',title:'Successful lead EXP-7',event:true});
+        if(window.goatcounter&&window.goatcounter.count){
+          window.goatcounter.count({path:'lead-success-exp-7',title:'Successful lead EXP-7',event:true});
+          if(src)window.goatcounter.count({path:'lead-success-exp-7-'+src,title:'Attributed lead EXP-7 '+src,event:true});
+        }
       } else { throw new Error(j.message||'Submission failed'); }
     }catch(err){s.textContent='Could not send right now. Please try again.';}
   });
 })();
 </script>
 
-<section class='zm-related'><h2>Explore related experiments</h2><ul><li><a href='https://zerobrainidea-prog.github.io/zero-mind-public/experiments/6/'>GangTailorUpgrade/undress-service</a></li><li><a href='https://zerobrainidea-prog.github.io/zero-mind-public/experiments/5/'>pierrenade/short-video-generator-AI</a></li><li><a href='https://zerobrainidea-prog.github.io/zero-mind-public/experiments/4/'>Nitter and XCancel resume service after legal advice</a></li></ul></section>
+<section class='zm-related'><h2>Explore related experiments</h2><ul><li><a href='https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/'>Is :customer_id really all I need to securely isolate client data in C</a></li><li><a href='https://zerobrainidea-prog.github.io/zero-mind-public/experiments/6/'>GangTailorUpgrade/undress-service</a></li><li><a href='https://zerobrainidea-prog.github.io/zero-mind-public/experiments/5/'>pierrenade/short-video-generator-AI</a></li></ul></section>
 </main></body></html>
