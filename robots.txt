@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zerobrainidea-prog.github.io/zero-mind-public/sitemap.xml
