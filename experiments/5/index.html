@@ -11,7 +11,37 @@ Create one original tutorial/comparison/template, publish it organically, and me
 
 ## Disclosure
 Use clear affiliate/sponsorship disclosures whenever applicable.</pre></article><hr><p><small>Follow the linked resource or next step only if it is useful to you. Any affiliate relationship must be clearly disclosed.</small></p>
-<section class="zm-convert" id="interest"><h2>Interested in this idea?</h2>
-<p>Send a message to the project inbox. No payment is requested on this page.</p>
-<a class="zm-cta" href="mailto:zerobrainidea@gmail.com?subject=ZERO-MIND%20interest%20EXP-5%3A%20Test%3A%20Rising%20tool%3A%20pierrenade/short-video-generator-AI" data-goatcounter-click="cta-exp-5">Email interest</a></section>
+<section class="zm-convert" id="interest">
+  <h2>Interested in this idea?</h2>
+  <p>Send a short message. This is a zero-cost market test; no payment is requested on this page.</p>
+  <form id="zm-lead-5">
+    <input type="hidden" name="access_key" value="08d32e11-1e5f-4a39-8049-af98cb9fe88c">
+    <input type="hidden" name="subject" value="ZERO-MIND lead · EXP-5 · Test: Rising tool: pierrenade/short-video-generator-AI">
+    <input type="hidden" name="experiment_id" value="5">
+    <input type="checkbox" name="botcheck" class="zm-honey" tabindex="-1" autocomplete="off">
+    <label>Name<input name="name" maxlength="100" required></label>
+    <label>Email<input name="email" type="email" maxlength="254" required></label>
+    <label>What would be useful?<textarea name="message" rows="4" maxlength="2000" required></textarea></label>
+    <button type="submit" data-goatcounter-click="cta-exp-5">Send interest</button>
+    <div class="zm-form-status" role="status" aria-live="polite"></div>
+  </form>
+</section>
+<script>
+(function(){
+  const f=document.getElementById('zm-lead-5'); if(!f)return;
+  const s=f.querySelector('.zm-form-status');
+  f.addEventListener('submit',async function(e){
+    e.preventDefault(); s.textContent='Sending…';
+    try{
+      const body=Object.fromEntries(new FormData(f));
+      const r=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)});
+      const j=await r.json();
+      if(r.ok && j.success){
+        s.textContent='Received. Thank you.'; f.reset();
+        if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'lead-success-exp-5',title:'Successful lead EXP-5',event:true});
+      } else { throw new Error(j.message||'Submission failed'); }
+    }catch(err){s.textContent='Could not send right now. Please try again.';}
+  });
+})();
+</script>
 </body></html>
