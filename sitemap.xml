@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/</loc></url>
+  <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/about.html</loc></url>
+  <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/pricing.html</loc></url>
+  <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/contact.html</loc></url>
+  <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/privacy.html</loc></url>
+  <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/terms.html</loc></url>
+  <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/refund.html</loc></url>
+  <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/shipping.html</loc></url>
   <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/experiments/1/</loc></url>
   <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/experiments/4/</loc></url>
   <url><loc>https://zerobrainidea-prog.github.io/zero-mind-public/experiments/5/</loc></url>
