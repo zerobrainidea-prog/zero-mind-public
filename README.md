@@ -22,3 +22,13 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 - `https://zerobrainidea-prog.github.io/zero-mind-public/sitemap.xml`
 - `https://zerobrainidea-prog.github.io/zero-mind-public/feed.xml`
 - `https://zerobrainidea-prog.github.io/zero-mind-public/robots.txt`
+
+## Customer and policy pages
+
+- `https://zerobrainidea-prog.github.io/zero-mind-public/about.html`
+- `https://zerobrainidea-prog.github.io/zero-mind-public/pricing.html`
+- `https://zerobrainidea-prog.github.io/zero-mind-public/contact.html`
+- `https://zerobrainidea-prog.github.io/zero-mind-public/privacy.html`
+- `https://zerobrainidea-prog.github.io/zero-mind-public/terms.html`
+- `https://zerobrainidea-prog.github.io/zero-mind-public/refund.html`
+- `https://zerobrainidea-prog.github.io/zero-mind-public/shipping.html`
