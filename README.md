@@ -9,6 +9,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 
 ## Live experiments
 
+- [EXP-11 · I advertise malicious software on Google Ads](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/11/)
 - [EXP-10 · Show HN: Copperhead – Hardware as Fast as Software](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/10/)
 - [EXP-9 · Replaceable but Employed: Automation and the Meaning of Work](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/9/)
 - [EXP-8 · Is :customer_id really all I need to securely isolate client data in C](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/)
