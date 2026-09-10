@@ -9,6 +9,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 
 ## Live experiments
 
+- [EXP-13 · Why is there no sorted_vector container in the C++ standard library, and what](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/13/)
 - [EXP-12 · I haven't lost a customer service fight in seven months](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/12/)
 - [EXP-11 · I advertise malicious software on Google Ads](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/11/)
 - [EXP-10 · Show HN: Copperhead – Hardware as Fast as Software](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/10/)
