@@ -9,6 +9,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 
 ## Live experiments
 
+- [EXP-15 · I have a theory that software drives people insane](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/15/)
 - [EXP-14 · Amazon pilots ad services in ChatGPT](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/14/)
 - [EXP-13 · Why is there no sorted_vector container in the C++ standard library, and what](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/13/)
 - [EXP-12 · I haven't lost a customer service fight in seven months](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/12/)
