@@ -12,7 +12,7 @@
 <meta property='og:url' content='https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/'>
 <meta name='twitter:card' content='summary_large_image'>
 <meta name='robots' content='index,follow'>
-<script type='application/ld+json'>{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Is :customer Id Really All I Need To Securely Isolate Client Data", "description": "Stack Overflow · score 0 · answers 1 · views 16", "url": "https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/", "author": {"@type": "Organization", "name": "ZERO-MIND Research Desk"}, "publisher": {"@type": "Organization", "name": "ZERO-MIND"}, "articleSection": "DEVELOPER DESK", "datePublished": "2026-09-07T19:05:52+00:00", "dateModified": "2026-09-11T06:41:47+00:00"}</script>
+<script type='application/ld+json'>{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Is :customer Id Really All I Need To Securely Isolate Client Data", "description": "Stack Overflow · score 0 · answers 1 · views 16", "url": "https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/", "author": {"@type": "Organization", "name": "ZERO-MIND Research Desk"}, "publisher": {"@type": "Organization", "name": "ZERO-MIND"}, "articleSection": "DEVELOPER DESK", "datePublished": "2026-09-07T19:05:52+00:00", "dateModified": "2026-09-11T08:08:51+00:00"}</script>
 <script data-goatcounter="https://zerobrainidea.goatcounter.com/count" data-goatcounter-settings="{&quot;path&quot;:&quot;/experiments/8&quot;}" async src="https://gc.zgo.at/count.js"></script><script>
 (function(){
   const q=new URLSearchParams(location.search);
@@ -55,6 +55,32 @@ a{color:inherit}.masthead{border-bottom:1px solid var(--line);background:rgba(7,
 <h1>Is :customer Id Really All I Need To Securely Isolate Client Data</h1>
 <p class='dek'>Stack Overflow · score 0 · answers 1 · views 16</p>
 <div class='byline'><strong>ZERO-MIND Research Desk</strong><span>07 Sep 2026 · 19:05 UTC</span><span>EXP-8</span><span>Source: stackexchange</span></div>
+
+<section class='zm-primary-signal' data-cta-measurement='CTA_INTENT_CLICK_V1' data-variant='C' style='margin:18px 0 8px;padding:18px 20px;border:1px solid #29485d;border-left:4px solid #29d8ff;background:#0a1823;border-radius:4px;font-family:Inter,system-ui,sans-serif'>
+  <div style='font-size:10px;font-weight:900;letter-spacing:.12em;color:#6df2b3'>OPTIONAL READER SIGNAL</div>
+  <strong style='display:block;font-family:Georgia,serif;font-size:23px;line-height:1.15;margin:6px 0 7px'>Help shape the practical starter pack</strong>
+  <span style='display:block;color:#b9cad8;font-size:13px;line-height:1.45;margin-bottom:12px'>If this topic solves a real problem for you, tell ZERO-MIND which deliverable would save you the most time. No subscription and no payment here.</span>
+  <a id='zm-primary-cta-8' href='#interest' style='display:inline-block;text-decoration:none;background:#29d8ff;color:#05131c;padding:11px 15px;border-radius:3px;font-weight:900'>Request the useful version ↓</a>
+  <small style='display:block;color:#8096a8;margin-top:9px'>No payment or subscription. Clicking only records a genuine CTA-intent event; a conversion is recorded only after a successful response.</small>
+</section>
+<script>
+(function(){
+  const a=document.getElementById('zm-primary-cta-8'); if(!a)return;
+  function count(path,title){
+    let tries=0;
+    function send(){
+      if(window.goatcounter&&window.goatcounter.count){window.goatcounter.count({path:path,title:title,event:true});return;}
+      if(++tries<24)setTimeout(send,250);
+    }
+    send();
+  }
+  a.addEventListener('click',function(){
+    count('cta-exp-8','CTA intent EXP-8');
+    const src=(window.__zm_source||'').replace(/[^a-z0-9_-]/g,'').slice(0,40);
+    if(src)count('cta-exp-8-'+src,'Attributed CTA intent EXP-8 '+src);
+  });
+})();
+</script>
 <div class='tags'><span class='tag'>developer-demand</span><span class='tag'>best-practices</span><span class='tag'>sql</span><span class='tag'>analytics</span><span class='tag'>dashboard</span></div>
 <div class='hero-card'><span class='hero-kicker'>RESEARCH BRIEF</span><strong>Is :customer Id Really All I Need To Securely Isolate Client Data</strong></div>
 <div class='article' id='analysis'>
@@ -83,7 +109,7 @@ a{color:inherit}.masthead{border-bottom:1px solid var(--line);background:rgba(7,
     <label>Name<input name="name" maxlength="100" required></label>
     <label>Email<input name="email" type="email" maxlength="254" required></label>
     <label>What would be useful?<textarea name="message" rows="4" maxlength="2000" required></textarea></label>
-    <button type="submit" data-goatcounter-click="cta-exp-8">Request the useful version</button>
+    <button type="submit" data-goatcounter-click="cta-submit-exp-8" data-goatcounter-title="Form submit attempt EXP-8">Request the useful version</button>
     <div class="zm-form-status" role="status" aria-live="polite"></div>
   </form>
 </section>
@@ -95,7 +121,7 @@ a{color:inherit}.masthead{border-bottom:1px solid var(--line);background:rgba(7,
   const sf=f.querySelector('.zm-campaign-source'); if(sf)sf.value=src;
   f.addEventListener('submit',async function(e){
     e.preventDefault(); s.textContent='Sending…';
-    if(src&&window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'cta-exp-8-'+src,title:'Attributed CTA EXP-8 '+src,event:true});
+    if(src&&window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'cta-submit-exp-8-'+src,title:'Attributed form submit EXP-8 '+src,event:true});
     try{
       const body=Object.fromEntries(new FormData(f));
       const r=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)});
