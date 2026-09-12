@@ -9,6 +9,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 
 ## Live experiments
 
+- [EXP-47 · TextBox is not editable inside ListViewItem ControlTemplate in WPF](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/47/)
 - [EXP-46 · Who Pays You to Remove This Stuff? — The Hidden Cleanout Business](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/46/)
 - [EXP-41 · Curtain Pleater/ Curtain Pleating Machine](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/41/)
 - [EXP-32 · How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/32/)
