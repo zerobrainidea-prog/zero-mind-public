@@ -9,6 +9,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 
 ## Live experiments
 
+- [EXP-41 · CURTAIN PLEATER/ CURTAIN PLEATING MACHINE🎉 #curtains #sewing #curtainpleat #pl](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/41/)
 - [EXP-32 · How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/32/)
 - [EXP-18 · Why Use Playwright for API Testing? #Playwright #APITesting #SoftwareTesting #](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/18/)
 - [EXP-16 · How to surround a variable with a Live Template?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/16/)
