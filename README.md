@@ -10,7 +10,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 ## Live experiments
 
 - [EXP-46 · Who Pays You to Remove This Stuff? — The Hidden Cleanout Business](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/46/)
-- [EXP-41 · CURTAIN PLEATER/ CURTAIN PLEATING MACHINE](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/41/)
+- [EXP-41 · Curtain Pleater/ Curtain Pleating Machine](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/41/)
 - [EXP-32 · How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/32/)
 - [EXP-18 · Why Use Playwright for API Testing?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/18/)
 - [EXP-16 · How to surround a variable with a Live Template?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/16/)
@@ -21,7 +21,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 - [EXP-11 · Research Signal: Malicious Software Advertising on Google Ads](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/11/)
 - [EXP-10 · Show HN: Copperhead – Hardware as Fast as Software](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/10/)
 - [EXP-9 · Replaceable but Employed: Automation and the Meaning of Work](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/9/)
-- [EXP-8 · Is :customer id really all I need to securely isolate client data in C](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/)
+- [EXP-8 · Is :customer ID really all I need to securely isolate client data in C](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/)
 - [EXP-7 · Rising tool: anthropics/commerce-agents](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/7/)
 - [EXP-6 · Rising tool: GangTailorUpgrade/undress-service](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/6/)
 - [EXP-5 · Rising tool: pierrenade/short-video-generator-AI](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/5/)
