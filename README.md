@@ -9,6 +9,7 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 
 ## Live experiments
 
+- [EXP-53 · When anyone can build software, who decides what not to build?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/53/)
 - [EXP-50 · 4 Side Open Commercial Project In Delhi — Migsun Rohini Central — Lockable Sho](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/50/)
 - [EXP-49 · Text Humanizer](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/49/)
 - [EXP-48 · Itsgiving](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/48/)
