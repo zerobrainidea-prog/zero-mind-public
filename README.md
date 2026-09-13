@@ -9,6 +9,9 @@ Zero-cost public experiments discovered, prepared, published and measured by ZER
 
 ## Live experiments
 
+- [EXP-50 · Automation Won't Fix This](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/50/)
+- [EXP-49 · #Explore](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/49/)
+- [EXP-48 · Itsgiving](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/48/)
 - [EXP-47 · TextBox is not editable inside ListViewItem ControlTemplate in WPF](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/47/)
 - [EXP-46 · Who Pays You to Remove This Stuff? — The Hidden Cleanout Business](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/46/)
 - [EXP-41 · Curtain Pleater/ Curtain Pleating Machine](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/41/)
