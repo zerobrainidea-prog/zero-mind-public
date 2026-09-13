@@ -1,37 +1,37 @@
-# ZERO-MIND Public Research Lab
+# ZERO-MIND Newsroom
 
-Zero-cost public experiments discovered, prepared, published and measured by ZERO-MIND.
+Independent public-signal research, zero-cost experiments and verified market-response evidence from ZERO-MIND.
 
 - Public site: https://zerobrainidea-prog.github.io/zero-mind-public
-- No paid traffic in the baseline acquisition engine
+- Zero paid promotion in the baseline acquisition engine
 - No fake visits, click bots or unsolicited bulk messaging
-- Revenue is recorded only when verified
+- Revenue is recorded only when verified by the configured provider
 
-## Live experiments
+## Live briefings
 
-- [EXP-53 · When anyone can build software, who decides what not to build?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/53/)
-- [EXP-50 · 4 Side Open Commercial Project In Delhi — Migsun Rohini Central — Lockable Sho](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/50/)
+- [EXP-53 · When Anyone Can Build Software, Who Decides What Not To Build?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/53/)
+- [EXP-50 · 4 Side Open Commercial Project In Delhi — Migsun Rohini Central —](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/50/)
 - [EXP-49 · Text Humanizer](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/49/)
 - [EXP-48 · Itsgiving](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/48/)
-- [EXP-47 · TextBox is not editable inside ListViewItem ControlTemplate in WPF](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/47/)
-- [EXP-46 · Who Pays You to Remove This Stuff? — The Hidden Cleanout Business](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/46/)
-- [EXP-41 · Curtain Pleater/ Curtain Pleating Machine](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/41/)
-- [EXP-32 · How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/32/)
-- [EXP-18 · Why Use Playwright for API Testing?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/18/)
-- [EXP-16 · How to surround a variable with a Live Template?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/16/)
-- [EXP-15 · I have a theory that software drives people insane](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/15/)
-- [EXP-14 · Amazon pilots ad services in ChatGPT](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/14/)
-- [EXP-13 · Why is there no sorted vector container in the C++ standard library, and what](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/13/)
-- [EXP-12 · I haven't lost a customer service fight in seven months](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/12/)
+- [EXP-47 · Text Box Is Not Editable Inside List View Item Control Template](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/47/)
+- [EXP-46 · Who Pays You To Remove This Stuff? — The Hidden Cleanout Business](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/46/)
+- [EXP-41 · Curtain Pleating Machine](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/41/)
+- [EXP-32 · How To Build An AI Software Factory: Agents That Open, Review](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/32/)
+- [EXP-18 · Why Use Playwright For API Testing?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/18/)
+- [EXP-16 · How To Surround A Variable With A Live Template?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/16/)
+- [EXP-15 · I Have A Theory That Software Drives People Insane](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/15/)
+- [EXP-14 · Amazon Pilots Ad Services In ChatGPT](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/14/)
+- [EXP-13 · Why Is There No Sorted Vector Container In The C++ Standard Library](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/13/)
+- [EXP-12 · I Haven't Lost A Customer Service Fight In Seven Months](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/12/)
 - [EXP-11 · Research Signal: Malicious Software Advertising on Google Ads](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/11/)
-- [EXP-10 · Show HN: Copperhead – Hardware as Fast as Software](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/10/)
-- [EXP-9 · Replaceable but Employed: Automation and the Meaning of Work](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/9/)
-- [EXP-8 · Is :customer ID really all I need to securely isolate client data in C](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/)
-- [EXP-7 · Rising tool: anthropics/commerce-agents](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/7/)
-- [EXP-6 · Rising tool: GangTailorUpgrade/undress-service](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/6/)
-- [EXP-5 · Rising tool: pierrenade/short-video-generator-AI](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/5/)
-- [EXP-4 · Nitter and XCancel resume service after legal advice](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/4/)
-- [EXP-1 · Rising tool: EverettFish/holo-card-studio](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/1/)
+- [EXP-10 · Show HN: Copperhead – Hardware As Fast As Software](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/10/)
+- [EXP-9 · Replaceable But Employed: Automation And The Meaning Of Work](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/9/)
+- [EXP-8 · Is :customer ID Really All I Need To Securely Isolate Client Data](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/8/)
+- [EXP-7 · Commerce Agents](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/7/)
+- [EXP-6 · AI-Assisted Fashion Workflow](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/6/)
+- [EXP-5 · Short Video Generator AI](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/5/)
+- [EXP-4 · Nitter And XCancel Resume Service After Legal Advice](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/4/)
+- [EXP-1 · Holo Card Studio](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/1/)
 
 ## Discovery assets
 
