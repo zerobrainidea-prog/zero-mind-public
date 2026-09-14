@@ -9,6 +9,7 @@ Independent public-signal research, zero-cost experiments and verified market-re
 
 ## Live briefings
 
+- [EXP-81 · How To Write An Effective Software Design Document](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/81/)
 - [EXP-53 · When Anyone Can Build Software, Who Decides What Not To Build?](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/53/)
 - [EXP-50 · 4 Side Open Commercial Project In Delhi — Migsun Rohini Central —](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/50/)
 - [EXP-49 · Text Humanizer](https://zerobrainidea-prog.github.io/zero-mind-public/experiments/49/)
